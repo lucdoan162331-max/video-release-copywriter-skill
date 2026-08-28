@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频发布文案三件套"
+  short_description: "根据视频画稿稳定生成发布、封面与金句三类文案并完成严格风格自检"
+  default_prompt: "Use $video-release-copywriter to turn this video draft into release copy, cover copy, and quote lines."
